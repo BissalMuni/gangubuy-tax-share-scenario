@@ -1,0 +1,3143 @@
+{
+  "localtax-law1": {
+    "koreanPath": "localtax-law1",
+    "englishPath": "localtax-law1",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세",
+    "englishPath": "localtax-law1/1-acquisition-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법",
+    "englishPath": "localtax-law1/1-acquisition-tax/law",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법\\01_배우자_직계존비속_부동산_유상거래_증여의제": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법\\01_배우자_직계존비속_부동산_유상거래_증여의제",
+    "englishPath": "localtax-law1/1-acquisition-tax/law/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "01_배우자_직계존비속_부동산_유상거래_증여의제",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법\\02_부당행위계산_과세표준_산정방식_보완": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법\\02_부당행위계산_과세표준_산정방식_보완",
+    "englishPath": "localtax-law1/1-acquisition-tax/law/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "02_부당행위계산_과세표준_산정방식_보완",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법\\03_법인_지목변경_간주취득_과세표준_명확화": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법\\03_법인_지목변경_간주취득_과세표준_명확화",
+    "englishPath": "localtax-law1/1-acquisition-tax/law/03",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "03_법인_지목변경_간주취득_과세표준_명확화",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법\\04_회원제_골프장_승계취득_과세_합리화": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법\\04_회원제_골프장_승계취득_과세_합리화",
+    "englishPath": "localtax-law1/1-acquisition-tax/law/04",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "04_회원제_골프장_승계취득_과세_합리화",
+        "english": "04",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법\\05_취득세_중과_고급주택_기준_개선": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법\\05_취득세_중과_고급주택_기준_개선",
+    "englishPath": "localtax-law1/1-acquisition-tax/law/05",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "05_취득세_중과_고급주택_기준_개선",
+        "english": "05",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법\\06_법인_주택_유상취득_중과세_추징_절차_보완": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법\\06_법인_주택_유상취득_중과세_추징_절차_보완",
+    "englishPath": "localtax-law1/1-acquisition-tax/law/06",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "06_법인_주택_유상취득_중과세_추징_절차_보완",
+        "english": "06",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법\\07_시가인정액_평가_차이_수정신고_가산세_보완": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법\\07_시가인정액_평가_차이_수정신고_가산세_보완",
+    "englishPath": "localtax-law1/1-acquisition-tax/law/07",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "07_시가인정액_평가_차이_수정신고_가산세_보완",
+        "english": "07",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법_시행령": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법_시행령",
+    "englishPath": "localtax-law1/1-acquisition-tax/enforcement-decree",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\01_시가인정액_유사부동산_평가기간_보완": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\01_시가인정액_유사부동산_평가기간_보완",
+    "englishPath": "localtax-law1/1-acquisition-tax/enforcement-decree/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "01_시가인정액_유사부동산_평가기간_보완",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\02_시가인정액_적용_예외대상_판단기준_개선": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\02_시가인정액_적용_예외대상_판단기준_개선",
+    "englishPath": "localtax-law1/1-acquisition-tax/enforcement-decree/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "02_시가인정액_적용_예외대상_판단기준_개선",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\03_CR리츠_지방_준공후_미분양_아파트_중과제외_연장": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\03_CR리츠_지방_준공후_미분양_아파트_중과제외_연장",
+    "englishPath": "localtax-law1/1-acquisition-tax/enforcement-decree/03",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "03_CR리츠_지방_준공후_미분양_아파트_중과제외_연장",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\04_지방_준공후_미분양_아파트_세제지원_확대": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\04_지방_준공후_미분양_아파트_세제지원_확대",
+    "englishPath": "localtax-law1/1-acquisition-tax/enforcement-decree/04",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "04_지방_준공후_미분양_아파트_세제지원_확대",
+        "english": "04",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\05_인구감소지역_민간임대주택_세제지원_신설": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\05_인구감소지역_민간임대주택_세제지원_신설",
+    "englishPath": "localtax-law1/1-acquisition-tax/enforcement-decree/05",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "05_인구감소지역_민간임대주택_세제지원_신설",
+        "english": "05",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\06_무상취득_주택_중과제외_직계존비속_범위_개선": {
+    "koreanPath": "localtax-law1\\Ⅰ_취득세\\지방세법_시행령\\06_무상취득_주택_중과제외_직계존비속_범위_개선",
+    "englishPath": "localtax-law1/1-acquisition-tax/enforcement-decree/06",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_취득세",
+        "english": "1-acquisition-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "06_무상취득_주택_중과제외_직계존비속_범위_개선",
+        "english": "06",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅱ_등록면허세_등록분": {
+    "koreanPath": "localtax-law1\\Ⅱ_등록면허세_등록분",
+    "englishPath": "localtax-law1/2-registration-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_등록면허세_등록분",
+        "english": "2-registration-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅱ_등록면허세_등록분\\지방세법_시행령": {
+    "koreanPath": "localtax-law1\\Ⅱ_등록면허세_등록분\\지방세법_시행령",
+    "englishPath": "localtax-law1/2-registration-tax/enforcement-decree",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_등록면허세_등록분",
+        "english": "2-registration-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅱ_등록면허세_등록분\\지방세법_시행령\\01_인용_조문_정비": {
+    "koreanPath": "localtax-law1\\Ⅱ_등록면허세_등록분\\지방세법_시행령\\01_인용_조문_정비",
+    "englishPath": "localtax-law1/2-registration-tax/enforcement-decree/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_등록면허세_등록분",
+        "english": "2-registration-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "01_인용_조문_정비",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅱ_재산세": {
+    "koreanPath": "localtax-law1\\Ⅱ_재산세",
+    "englishPath": "localtax-law1/2-property-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_재산세",
+        "english": "2-property-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅱ_재산세\\조례": {
+    "koreanPath": "localtax-law1\\Ⅱ_재산세\\조례",
+    "englishPath": "localtax-law1/2-property-tax/ordinance",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_재산세",
+        "english": "2-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "조례",
+        "english": "ordinance",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅱ_재산세\\조례\\01_다자녀_가구_재산세_감면": {
+    "koreanPath": "localtax-law1\\Ⅱ_재산세\\조례\\01_다자녀_가구_재산세_감면",
+    "englishPath": "localtax-law1/2-property-tax/ordinance/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_재산세",
+        "english": "2-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "조례",
+        "english": "ordinance",
+        "level": 2
+      },
+      {
+        "korean": "01_다자녀_가구_재산세_감면",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅲ_등록면허세_면허분": {
+    "koreanPath": "localtax-law1\\Ⅲ_등록면허세_면허분",
+    "englishPath": "localtax-law1/3-license-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅲ_등록면허세_면허분",
+        "english": "3-license-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅲ_등록면허세_면허분\\지방세법_시행령": {
+    "koreanPath": "localtax-law1\\Ⅲ_등록면허세_면허분\\지방세법_시행령",
+    "englishPath": "localtax-law1/3-license-tax/enforcement-decree",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅲ_등록면허세_면허분",
+        "english": "3-license-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅲ_등록면허세_면허분\\지방세법_시행령\\01_일회성_과세_면허의_정비": {
+    "koreanPath": "localtax-law1\\Ⅲ_등록면허세_면허분\\지방세법_시행령\\01_일회성_과세_면허의_정비",
+    "englishPath": "localtax-law1/3-license-tax/enforcement-decree/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅲ_등록면허세_면허분",
+        "english": "3-license-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "01_일회성_과세_면허의_정비",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅲ_등록면허세_면허분\\지방세법_시행령\\02_면허의_종류와_종별_구분_변경": {
+    "koreanPath": "localtax-law1\\Ⅲ_등록면허세_면허분\\지방세법_시행령\\02_면허의_종류와_종별_구분_변경",
+    "englishPath": "localtax-law1/3-license-tax/enforcement-decree/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅲ_등록면허세_면허분",
+        "english": "3-license-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "02_면허의_종류와_종별_구분_변경",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅳ_담배소비세": {
+    "koreanPath": "localtax-law1\\Ⅳ_담배소비세",
+    "englishPath": "localtax-law1/4-tobacco-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅳ_담배소비세",
+        "english": "4-tobacco-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅳ_담배소비세\\지방세법령": {
+    "koreanPath": "localtax-law1\\Ⅳ_담배소비세\\지방세법령",
+    "englishPath": "localtax-law1/4-tobacco-tax/law-and-decree",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅳ_담배소비세",
+        "english": "4-tobacco-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅳ_담배소비세\\지방세법령\\01_합성니코틴_담배_담배소비세_과세": {
+    "koreanPath": "localtax-law1\\Ⅳ_담배소비세\\지방세법령\\01_합성니코틴_담배_담배소비세_과세",
+    "englishPath": "localtax-law1/4-tobacco-tax/law-and-decree/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅳ_담배소비세",
+        "english": "4-tobacco-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      },
+      {
+        "korean": "01_합성니코틴_담배_담배소비세_과세",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅳ_담배소비세\\지방세법령\\02_담배소비세_납세담보_제도_개편_시행령": {
+    "koreanPath": "localtax-law1\\Ⅳ_담배소비세\\지방세법령\\02_담배소비세_납세담보_제도_개편_시행령",
+    "englishPath": "localtax-law1/4-tobacco-tax/law-and-decree/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅳ_담배소비세",
+        "english": "4-tobacco-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      },
+      {
+        "korean": "02_담배소비세_납세담보_제도_개편_시행령",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅳ_담배소비세\\지방세법령\\03_담배소비세_납세담보_제도_개편_시행규칙": {
+    "koreanPath": "localtax-law1\\Ⅳ_담배소비세\\지방세법령\\03_담배소비세_납세담보_제도_개편_시행규칙",
+    "englishPath": "localtax-law1/4-tobacco-tax/law-and-decree/03",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅳ_담배소비세",
+        "english": "4-tobacco-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      },
+      {
+        "korean": "03_담배소비세_납세담보_제도_개편_시행규칙",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅴ_지방소비세": {
+    "koreanPath": "localtax-law1\\Ⅴ_지방소비세",
+    "englishPath": "localtax-law1/5-local-consumption-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅴ_지방소비세",
+        "english": "5-local-consumption-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅴ_지방소비세\\지방세법령": {
+    "koreanPath": "localtax-law1\\Ⅴ_지방소비세\\지방세법령",
+    "englishPath": "localtax-law1/5-local-consumption-tax/law-and-decree",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅴ_지방소비세",
+        "english": "5-local-consumption-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅴ_지방소비세\\지방세법령\\01_지방소비세_재정조정분_안분금액_위임_규정_변경_법": {
+    "koreanPath": "localtax-law1\\Ⅴ_지방소비세\\지방세법령\\01_지방소비세_재정조정분_안분금액_위임_규정_변경_법",
+    "englishPath": "localtax-law1/5-local-consumption-tax/law-and-decree/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅴ_지방소비세",
+        "english": "5-local-consumption-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      },
+      {
+        "korean": "01_지방소비세_재정조정분_안분금액_위임_규정_변경_법",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅴ_지방소비세\\지방세법령\\02_지방소비세_재정조정분_안분금액_위임_규정_변경_영": {
+    "koreanPath": "localtax-law1\\Ⅴ_지방소비세\\지방세법령\\02_지방소비세_재정조정분_안분금액_위임_규정_변경_영",
+    "englishPath": "localtax-law1/5-local-consumption-tax/law-and-decree/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅴ_지방소비세",
+        "english": "5-local-consumption-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      },
+      {
+        "korean": "02_지방소비세_재정조정분_안분금액_위임_규정_변경_영",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅵ_주민세": {
+    "koreanPath": "localtax-law1\\Ⅵ_주민세",
+    "englishPath": "localtax-law1/6-resident-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅵ_주민세",
+        "english": "6-resident-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅵ_주민세\\지방세법_시행규칙": {
+    "koreanPath": "localtax-law1\\Ⅵ_주민세\\지방세법_시행규칙",
+    "englishPath": "localtax-law1/6-resident-tax/enforcement-rule",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅵ_주민세",
+        "english": "6-resident-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행규칙",
+        "english": "enforcement-rule",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅵ_주민세\\지방세법_시행규칙\\01_인용_조문_개정에_따른_정비": {
+    "koreanPath": "localtax-law1\\Ⅵ_주민세\\지방세법_시행규칙\\01_인용_조문_개정에_따른_정비",
+    "englishPath": "localtax-law1/6-resident-tax/enforcement-rule/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅵ_주민세",
+        "english": "6-resident-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행규칙",
+        "english": "enforcement-rule",
+        "level": 2
+      },
+      {
+        "korean": "01_인용_조문_개정에_따른_정비",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅵ_주민세\\지방세법_시행규칙\\02_주민세_종업원분_신고서_서식_보완": {
+    "koreanPath": "localtax-law1\\Ⅵ_주민세\\지방세법_시행규칙\\02_주민세_종업원분_신고서_서식_보완",
+    "englishPath": "localtax-law1/6-resident-tax/enforcement-rule/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅵ_주민세",
+        "english": "6-resident-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행규칙",
+        "english": "enforcement-rule",
+        "level": 2
+      },
+      {
+        "korean": "02_주민세_종업원분_신고서_서식_보완",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅵ_주민세\\지방세법_시행령": {
+    "koreanPath": "localtax-law1\\Ⅵ_주민세\\지방세법_시행령",
+    "englishPath": "localtax-law1/6-resident-tax/enforcement-decree",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅵ_주민세",
+        "english": "6-resident-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅵ_주민세\\지방세법_시행령\\01_육아휴직자_대체인력_주민세_종업원분_과표공제_신설": {
+    "koreanPath": "localtax-law1\\Ⅵ_주민세\\지방세법_시행령\\01_육아휴직자_대체인력_주민세_종업원분_과표공제_신설",
+    "englishPath": "localtax-law1/6-resident-tax/enforcement-decree/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅵ_주민세",
+        "english": "6-resident-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "01_육아휴직자_대체인력_주민세_종업원분_과표공제_신설",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅵ_주민세\\지방세법_시행령\\02_비수도권_중소기업_주민세_종업원분_과표공제_신설": {
+    "koreanPath": "localtax-law1\\Ⅵ_주민세\\지방세법_시행령\\02_비수도권_중소기업_주민세_종업원분_과표공제_신설",
+    "englishPath": "localtax-law1/6-resident-tax/enforcement-decree/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅵ_주민세",
+        "english": "6-resident-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "02_비수도권_중소기업_주민세_종업원분_과표공제_신설",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세",
+    "englishPath": "localtax-law1/7-local-income-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법",
+    "englishPath": "localtax-law1/7-local-income-tax/law",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법\\01_국세_특례_종료에_따른_인용_조문_정비": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법\\01_국세_특례_종료에_따른_인용_조문_정비",
+    "englishPath": "localtax-law1/7-local-income-tax/law/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "01_국세_특례_종료에_따른_인용_조문_정비",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법\\02_국외전출자_과세_대상_확대에_따른_용어_변경": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법\\02_국외전출자_과세_대상_확대에_따른_용어_변경",
+    "englishPath": "localtax-law1/7-local-income-tax/law/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "02_국외전출자_과세_대상_확대에_따른_용어_변경",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법\\03_법인지방소득세_외국납부세액_제도개선": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법\\03_법인지방소득세_외국납부세액_제도개선",
+    "englishPath": "localtax-law1/7-local-income-tax/law/03",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "03_법인지방소득세_외국납부세액_제도개선",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법\\04_법인지방소득세_세율_환원": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법\\04_법인지방소득세_세율_환원",
+    "englishPath": "localtax-law1/7-local-income-tax/law/04",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "04_법인지방소득세_세율_환원",
+        "english": "04",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법\\05_성실신고확인서_제출_법인_신고기한_연장": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법\\05_성실신고확인서_제출_법인_신고기한_연장",
+    "englishPath": "localtax-law1/7-local-income-tax/law/05",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "05_성실신고확인서_제출_법인_신고기한_연장",
+        "english": "05",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법_시행령_규칙": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법_시행령_규칙",
+    "englishPath": "localtax-law1/7-local-income-tax/decree-and-rule",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령_규칙",
+        "english": "decree-and-rule",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법_시행령_규칙\\01_납세조합_징수교부금_정비": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법_시행령_규칙\\01_납세조합_징수교부금_정비",
+    "englishPath": "localtax-law1/7-local-income-tax/decree-and-rule/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령_규칙",
+        "english": "decree-and-rule",
+        "level": 2
+      },
+      {
+        "korean": "01_납세조합_징수교부금_정비",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법_시행령_규칙\\02_법인지방소득세_외국납부세액_제도개선_시행령": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법_시행령_규칙\\02_법인지방소득세_외국납부세액_제도개선_시행령",
+    "englishPath": "localtax-law1/7-local-income-tax/decree-and-rule/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령_규칙",
+        "english": "decree-and-rule",
+        "level": 2
+      },
+      {
+        "korean": "02_법인지방소득세_외국납부세액_제도개선_시행령",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅶ_지방소득세\\지방세법_시행령_규칙\\03_법인지방소득세_외국납부세액_제도개선_시행규칙": {
+    "koreanPath": "localtax-law1\\Ⅶ_지방소득세\\지방세법_시행령_규칙\\03_법인지방소득세_외국납부세액_제도개선_시행규칙",
+    "englishPath": "localtax-law1/7-local-income-tax/decree-and-rule/03",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅶ_지방소득세",
+        "english": "7-local-income-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령_규칙",
+        "english": "decree-and-rule",
+        "level": 2
+      },
+      {
+        "korean": "03_법인지방소득세_외국납부세액_제도개선_시행규칙",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세",
+    "englishPath": "localtax-law1/8-property-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법",
+    "englishPath": "localtax-law1/8-property-tax/law",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법\\01_금전매수_신탁재산_납세의무자_변경": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법\\01_금전매수_신탁재산_납세의무자_변경",
+    "englishPath": "localtax-law1/8-property-tax/law/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "01_금전매수_신탁재산_납세의무자_변경",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법\\02_동력수상레저기구_재산세_납세지_명확화": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법\\02_동력수상레저기구_재산세_납세지_명확화",
+    "englishPath": "localtax-law1/8-property-tax/law/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "02_동력수상레저기구_재산세_납세지_명확화",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법\\03_재산세_도시지역분_비과세_대상_범위_개선": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법\\03_재산세_도시지역분_비과세_대상_범위_개선",
+    "englishPath": "localtax-law1/8-property-tax/law/03",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "03_재산세_도시지역분_비과세_대상_범위_개선",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법\\04_신탁재산_물적납세의무_범위_확대_규정_명확화": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법\\04_신탁재산_물적납세의무_범위_확대_규정_명확화",
+    "englishPath": "localtax-law1/8-property-tax/law/04",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "04_신탁재산_물적납세의무_범위_확대_규정_명확화",
+        "english": "04",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법_시행규칙": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법_시행규칙",
+    "englishPath": "localtax-law1/8-property-tax/enforcement-rule",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행규칙",
+        "english": "enforcement-rule",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법_시행규칙\\01_물납부동산_평가_시_시가로_인정되는_부동산가액_규정_명확화": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법_시행규칙\\01_물납부동산_평가_시_시가로_인정되는_부동산가액_규정_명확화",
+    "englishPath": "localtax-law1/8-property-tax/enforcement-rule/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행규칙",
+        "english": "enforcement-rule",
+        "level": 2
+      },
+      {
+        "korean": "01_물납부동산_평가_시_시가로_인정되는_부동산가액_규정_명확화",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법_시행규칙\\02_주택_재산세_납세고지서_개선": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법_시행규칙\\02_주택_재산세_납세고지서_개선",
+    "englishPath": "localtax-law1/8-property-tax/enforcement-rule/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행규칙",
+        "english": "enforcement-rule",
+        "level": 2
+      },
+      {
+        "korean": "02_주택_재산세_납세고지서_개선",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법_시행령": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법_시행령",
+    "englishPath": "localtax-law1/8-property-tax/enforcement-decree",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\01_자동차검사용_별도합산과세대상_토지_인용조문_정비": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\01_자동차검사용_별도합산과세대상_토지_인용조문_정비",
+    "englishPath": "localtax-law1/8-property-tax/enforcement-decree/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "01_자동차검사용_별도합산과세대상_토지_인용조문_정비",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\02_매립_간척_토지_분리과세_기산일_취득일_정합성_제고": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\02_매립_간척_토지_분리과세_기산일_취득일_정합성_제고",
+    "englishPath": "localtax-law1/8-property-tax/enforcement-decree/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "02_매립_간척_토지_분리과세_기산일_취득일_정합성_제고",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\03_철거_멸실된_건축물_또는_주택_범위_확대": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\03_철거_멸실된_건축물_또는_주택_범위_확대",
+    "englishPath": "localtax-law1/8-property-tax/enforcement-decree/03",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "03_철거_멸실된_건축물_또는_주택_범위_확대",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\04_빈집_철거_후_공용_공공용_사용토지_세부담_추가_완화": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\04_빈집_철거_후_공용_공공용_사용토지_세부담_추가_완화",
+    "englishPath": "localtax-law1/8-property-tax/enforcement-decree/04",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "04_빈집_철거_후_공용_공공용_사용토지_세부담_추가_완화",
+        "english": "04",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\05_인구감소지역_재산세_1주택_특례_범위_확대": {
+    "koreanPath": "localtax-law1\\Ⅷ_재산세\\지방세법_시행령\\05_인구감소지역_재산세_1주택_특례_범위_확대",
+    "englishPath": "localtax-law1/8-property-tax/enforcement-decree/05",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅷ_재산세",
+        "english": "8-property-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법_시행령",
+        "english": "enforcement-decree",
+        "level": 2
+      },
+      {
+        "korean": "05_인구감소지역_재산세_1주택_특례_범위_확대",
+        "english": "05",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅸ_자동차세": {
+    "koreanPath": "localtax-law1\\Ⅸ_자동차세",
+    "englishPath": "localtax-law1/9-vehicle-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅸ_자동차세",
+        "english": "9-vehicle-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅸ_자동차세\\지방세법령": {
+    "koreanPath": "localtax-law1\\Ⅸ_자동차세\\지방세법령",
+    "englishPath": "localtax-law1/9-vehicle-tax/law-and-decree",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅸ_자동차세",
+        "english": "9-vehicle-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅸ_자동차세\\지방세법령\\01_자동차세_연납_규정_관련_조문_정비_법": {
+    "koreanPath": "localtax-law1\\Ⅸ_자동차세\\지방세법령\\01_자동차세_연납_규정_관련_조문_정비_법",
+    "englishPath": "localtax-law1/9-vehicle-tax/law-and-decree/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅸ_자동차세",
+        "english": "9-vehicle-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      },
+      {
+        "korean": "01_자동차세_연납_규정_관련_조문_정비_법",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅸ_자동차세\\지방세법령\\02_자동차세_연납_규정_관련_조문_정비_영": {
+    "koreanPath": "localtax-law1\\Ⅸ_자동차세\\지방세법령\\02_자동차세_연납_규정_관련_조문_정비_영",
+    "englishPath": "localtax-law1/9-vehicle-tax/law-and-decree/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅸ_자동차세",
+        "english": "9-vehicle-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법령",
+        "english": "law-and-decree",
+        "level": 2
+      },
+      {
+        "korean": "02_자동차세_연납_규정_관련_조문_정비_영",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅹ_지역자원시설세": {
+    "koreanPath": "localtax-law1\\Ⅹ_지역자원시설세",
+    "englishPath": "localtax-law1/10-regional-resource-tax",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅹ_지역자원시설세",
+        "english": "10-regional-resource-tax",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-law1\\Ⅹ_지역자원시설세\\지방세법": {
+    "koreanPath": "localtax-law1\\Ⅹ_지역자원시설세\\지방세법",
+    "englishPath": "localtax-law1/10-regional-resource-tax/law",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅹ_지역자원시설세",
+        "english": "10-regional-resource-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-law1\\Ⅹ_지역자원시설세\\지방세법\\01_신탁재산_수탁자_물적납세의무_근거_규정_명확화": {
+    "koreanPath": "localtax-law1\\Ⅹ_지역자원시설세\\지방세법\\01_신탁재산_수탁자_물적납세의무_근거_규정_명확화",
+    "englishPath": "localtax-law1/10-regional-resource-tax/law/01",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅹ_지역자원시설세",
+        "english": "10-regional-resource-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "01_신탁재산_수탁자_물적납세의무_근거_규정_명확화",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅹ_지역자원시설세\\지방세법\\02_폐기물매립시설_특정시설분_신규_과세": {
+    "koreanPath": "localtax-law1\\Ⅹ_지역자원시설세\\지방세법\\02_폐기물매립시설_특정시설분_신규_과세",
+    "englishPath": "localtax-law1/10-regional-resource-tax/law/02",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅹ_지역자원시설세",
+        "english": "10-regional-resource-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "02_폐기물매립시설_특정시설분_신규_과세",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-law1\\Ⅹ_지역자원시설세\\지방세법\\03_화력발전_연료별_차등_세율_적용": {
+    "koreanPath": "localtax-law1\\Ⅹ_지역자원시설세\\지방세법\\03_화력발전_연료별_차등_세율_적용",
+    "englishPath": "localtax-law1/10-regional-resource-tax/law/03",
+    "segments": [
+      {
+        "korean": "localtax-law1",
+        "english": "localtax-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅹ_지역자원시설세",
+        "english": "10-regional-resource-tax",
+        "level": 1
+      },
+      {
+        "korean": "지방세법",
+        "english": "law",
+        "level": 2
+      },
+      {
+        "korean": "03_화력발전_연료별_차등_세율_적용",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1": {
+    "koreanPath": "localtax-special-law1",
+    "englishPath": "localtax-special-law1",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황": {
+    "koreanPath": "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황",
+    "englishPath": "localtax-special-law1/1-tax-expenditure-redesign",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_2025년_지방세_지출_재설계_현황",
+        "english": "1-tax-expenditure-redesign",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요": {
+    "koreanPath": "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요",
+    "englishPath": "localtax-special-law1/1-tax-expenditure-redesign/overview",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_2025년_지방세_지출_재설계_현황",
+        "english": "1-tax-expenditure-redesign",
+        "level": 1
+      },
+      {
+        "korean": "개요",
+        "english": "overview",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요\\01_지방세_지출_개관": {
+    "koreanPath": "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요\\01_지방세_지출_개관",
+    "englishPath": "localtax-special-law1/1-tax-expenditure-redesign/overview/01",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_2025년_지방세_지출_재설계_현황",
+        "english": "1-tax-expenditure-redesign",
+        "level": 1
+      },
+      {
+        "korean": "개요",
+        "english": "overview",
+        "level": 2
+      },
+      {
+        "korean": "01_지방세_지출_개관",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요\\02_2025년_지방세_지출_운영_방향": {
+    "koreanPath": "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요\\02_2025년_지방세_지출_운영_방향",
+    "englishPath": "localtax-special-law1/1-tax-expenditure-redesign/overview/02",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_2025년_지방세_지출_재설계_현황",
+        "english": "1-tax-expenditure-redesign",
+        "level": 1
+      },
+      {
+        "korean": "개요",
+        "english": "overview",
+        "level": 2
+      },
+      {
+        "korean": "02_2025년_지방세_지출_운영_방향",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요\\03_지방세_지출_재설계_현황": {
+    "koreanPath": "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요\\03_지방세_지출_재설계_현황",
+    "englishPath": "localtax-special-law1/1-tax-expenditure-redesign/overview/03",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_2025년_지방세_지출_재설계_현황",
+        "english": "1-tax-expenditure-redesign",
+        "level": 1
+      },
+      {
+        "korean": "개요",
+        "english": "overview",
+        "level": 2
+      },
+      {
+        "korean": "03_지방세_지출_재설계_현황",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요\\04_지방세특례제한법_주요_특례_신설_확대": {
+    "koreanPath": "localtax-special-law1\\Ⅰ_2025년_지방세_지출_재설계_현황\\개요\\04_지방세특례제한법_주요_특례_신설_확대",
+    "englishPath": "localtax-special-law1/1-tax-expenditure-redesign/overview/04",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅰ_2025년_지방세_지출_재설계_현황",
+        "english": "1-tax-expenditure-redesign",
+        "level": 1
+      },
+      {
+        "korean": "개요",
+        "english": "overview",
+        "level": 2
+      },
+      {
+        "korean": "04_지방세특례제한법_주요_특례_신설_확대",
+        "english": "04",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\01_지방세_특례_정의_규정_명확화": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\01_지방세_특례_정의_규정_명확화",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/01",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "01_지방세_특례_정의_규정_명확화",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\02_지방세_감면_조례_총량_예외_규정_정비": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\02_지방세_감면_조례_총량_예외_규정_정비",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/02",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "02_지방세_감면_조례_총량_예외_규정_정비",
+        "english": "02",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\03_임업후계자_등에_대한_감면_요건_추가": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\03_임업후계자_등에_대한_감면_요건_추가",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/03",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "03_임업후계자_등에_대한_감면_요건_추가",
+        "english": "03",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\04_어업_양식업권_감면_세목_축소": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\04_어업_양식업권_감면_세목_축소",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/04",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "04_어업_양식업권_감면_세목_축소",
+        "english": "04",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\05_한국농어촌공사_사업별_감면율_축소_및_정비": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\05_한국농어촌공사_사업별_감면율_축소_및_정비",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/05",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "05_한국농어촌공사_사업별_감면율_축소_및_정비",
+        "english": "05",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\06_지방농수산물공사_감면_연장_및_최소납부적용": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\06_지방농수산물공사_감면_연장_및_최소납부적용",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/06",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "06_지방농수산물공사_감면_연장_및_최소납부적용",
+        "english": "06",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\07_사회복지법인_등에_대한_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\07_사회복지법인_등에_대한_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/07",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "07_사회복지법인_등에_대한_감면_연장_및_재설계",
+        "english": "07",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\08_법률구조법인_한국소비자원에_대한_감면_연장": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\08_법률구조법인_한국소비자원에_대한_감면_연장",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/08",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "08_법률구조법인_한국소비자원에_대한_감면_연장",
+        "english": "08",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\09_공공매입임대주택_감면대상자_확대": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\09_공공매입임대주택_감면대상자_확대",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/09",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "09_공공매입임대주택_감면대상자_확대",
+        "english": "09",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\10_지방_준공_후_미분양_아파트_감면_연장_및_확대": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\10_지방_준공_후_미분양_아파트_감면_연장_및_확대",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/10",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "10_지방_준공_후_미분양_아파트_감면_연장_및_확대",
+        "english": "10",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\11_HUG_미분양_안심환매_사업_지방세_감면_신설": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\11_HUG_미분양_안심환매_사업_지방세_감면_신설",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/11",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "11_HUG_미분양_안심환매_사업_지방세_감면_신설",
+        "english": "11",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\12_생애최초_주택_상시_거주_추징요건_완화": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\12_생애최초_주택_상시_거주_추징요건_완화",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/12",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "12_생애최초_주택_상시_거주_추징요건_완화",
+        "english": "12",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\13_출산_양육_주택_취득_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\13_출산_양육_주택_취득_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/13",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "13_출산_양육_주택_취득_감면_연장_및_재설계",
+        "english": "13",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\14_연구개발_지원을_위한_감면_확대_및_연장": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\14_연구개발_지원을_위한_감면_확대_및_연장",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/14",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "14_연구개발_지원을_위한_감면_확대_및_연장",
+        "english": "14",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\15_스프링클러설비_등_설치_숙박시설_감면": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\15_스프링클러설비_등_설치_숙박시설_감면",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/15",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "15_스프링클러설비_등_설치_숙박시설_감면",
+        "english": "15",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\16_관광단지_개발사업시행자_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\16_관광단지_개발사업시행자_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/16",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "16_관광단지_개발사업시행자_감면_연장_및_재설계",
+        "english": "16",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\17_벤처기업육성촉진지구_내_벤처기업_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\17_벤처기업육성촉진지구_내_벤처기업_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/17",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "17_벤처기업육성촉진지구_내_벤처기업_감면_연장_및_재설계",
+        "english": "17",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\18_지식산업센터_등_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\18_지식산업센터_등_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/18",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "18_지식산업센터_등_감면_연장_및_재설계",
+        "english": "18",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\19_국가철도공단에_대한_감면율_축소": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\19_국가철도공단에_대한_감면율_축소",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/19",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "19_국가철도공단에_대한_감면율_축소",
+        "english": "19",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\20_한국철도공사에_대한_감면_축소": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\20_한국철도공사에_대한_감면_축소",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/20",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "20_한국철도공사에_대한_감면_축소",
+        "english": "20",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\21_수소전기화물자동차에_대한_감면_연장": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\21_수소전기화물자동차에_대한_감면_연장",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/21",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "21_수소전기화물자동차에_대한_감면_연장",
+        "english": "21",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\22_물류단지_등_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\22_물류단지_등_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/22",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "22_물류단지_등_감면_연장_및_재설계",
+        "english": "22",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\23_도시개발사업_등_감면_연장": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\23_도시개발사업_등_감면_연장",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/23",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "23_도시개발사업_등_감면_연장",
+        "english": "23",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\24_기업도시개발구역_내_창업기업_등_재산세_감면기간_설정": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\24_기업도시개발구역_내_창업기업_등_재산세_감면기간_설정",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/24",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "24_기업도시개발구역_내_창업기업_등_재산세_감면기간_설정",
+        "english": "24",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\25_반환공여구역_등_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\25_반환공여구역_등_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/25",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "25_반환공여구역_등_감면_연장_및_재설계",
+        "english": "25",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\26_인구감소지역_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\26_인구감소지역_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/26",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "26_인구감소지역_감면_연장_및_재설계",
+        "english": "26",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\27_빈집_정비를_위한_감면_신설": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\27_빈집_정비를_위한_감면_신설",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/27",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "27_빈집_정비를_위한_감면_신설",
+        "english": "27",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\28_산업단지_등_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\28_산업단지_등_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/28",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "28_산업단지_등_감면_연장_및_재설계",
+        "english": "28",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\29_한국산업단지공단_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\29_한국산업단지공단_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/29",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "29_한국산업단지공단_감면_연장_및_재설계",
+        "english": "29",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\30_이전공공기관_등_지방이전_감면_연장": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\30_이전공공기관_등_지방이전_감면_연장",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/30",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "30_이전공공기관_등_지방이전_감면_연장",
+        "english": "30",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\31_사권_제한토지_등_감면_정비": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\31_사권_제한토지_등_감면_정비",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/31",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "31_사권_제한토지_등_감면_정비",
+        "english": "31",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\32_지방공기업_등_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\32_지방공기업_등_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/32",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "32_지방공기업_등_감면_연장_및_재설계",
+        "english": "32",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\33_마을회_등_감면_연장_및_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\33_마을회_등_감면_연장_및_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/33",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "33_마을회_등_감면_연장_및_재설계",
+        "english": "33",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\34_개인지방소득세_세액공제_조문_정비": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\34_개인지방소득세_세액공제_조문_정비",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/34",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "34_개인지방소득세_세액공제_조문_정비",
+        "english": "34",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\35_인구감소지역_주민_고용_시_법인지방소득세_세액공제_신설": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\35_인구감소지역_주민_고용_시_법인지방소득세_세액공제_신설",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/35",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "35_인구감소지역_주민_고용_시_법인지방소득세_세액공제_신설",
+        "english": "35",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\36_고배당기업_주식_배당소득_개인지방소득세_과세특례_신설": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\36_고배당기업_주식_배당소득_개인지방소득세_과세특례_신설",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/36",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "36_고배당기업_주식_배당소득_개인지방소득세_과세특례_신설",
+        "english": "36",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\37_중과세율_적용_배제특례_사후관리_강화": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\37_중과세율_적용_배제특례_사후관리_강화",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/37",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "37_중과세율_적용_배제특례_사후관리_강화",
+        "english": "37",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\38_신탁재산_감면_적용_특례_신설": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\38_신탁재산_감면_적용_특례_신설",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/38",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "38_신탁재산_감면_적용_특례_신설",
+        "english": "38",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\39_인구감소지역_감면_적용_특례_신설": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\39_인구감소지역_감면_적용_특례_신설",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/39",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "39_인구감소지역_감면_적용_특례_신설",
+        "english": "39",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\40_감면대상_청년농업법인_연령기준_완화": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\40_감면대상_청년농업법인_연령기준_완화",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/40",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "40_감면대상_청년농업법인_연령기준_완화",
+        "english": "40",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\41_기회발전특구_등_감면_대상_공장_범위_재설계": {
+    "koreanPath": "localtax-special-law1\\Ⅱ_지방세특례제한법령_개정_내용\\개정내용\\41_기회발전특구_등_감면_대상_공장_범위_재설계",
+    "englishPath": "localtax-special-law1/2-special-tax-law-amendments/amendments/41",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅱ_지방세특례제한법령_개정_내용",
+        "english": "2-special-tax-law-amendments",
+        "level": 1
+      },
+      {
+        "korean": "개정내용",
+        "english": "amendments",
+        "level": 2
+      },
+      {
+        "korean": "41_기회발전특구_등_감면_대상_공장_범위_재설계",
+        "english": "41",
+        "level": 3
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅲ_참고자료": {
+    "koreanPath": "localtax-special-law1\\Ⅲ_참고자료",
+    "englishPath": "localtax-special-law1/3-reference",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅲ_참고자료",
+        "english": "3-reference",
+        "level": 1
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅲ_참고자료\\참고": {
+    "koreanPath": "localtax-special-law1\\Ⅲ_참고자료\\참고",
+    "englishPath": "localtax-special-law1/3-reference/reference",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅲ_참고자료",
+        "english": "3-reference",
+        "level": 1
+      },
+      {
+        "korean": "참고",
+        "english": "reference",
+        "level": 2
+      }
+    ]
+  },
+  "localtax-special-law1\\Ⅲ_참고자료\\참고\\01_2026년_최소납부세제_적용대상": {
+    "koreanPath": "localtax-special-law1\\Ⅲ_참고자료\\참고\\01_2026년_최소납부세제_적용대상",
+    "englishPath": "localtax-special-law1/3-reference/reference/01",
+    "segments": [
+      {
+        "korean": "localtax-special-law1",
+        "english": "localtax-special-law1",
+        "level": 0
+      },
+      {
+        "korean": "Ⅲ_참고자료",
+        "english": "3-reference",
+        "level": 1
+      },
+      {
+        "korean": "참고",
+        "english": "reference",
+        "level": 2
+      },
+      {
+        "korean": "01_2026년_최소납부세제_적용대상",
+        "english": "01",
+        "level": 3
+      }
+    ]
+  }
+}

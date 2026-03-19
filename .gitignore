@@ -30,8 +30,12 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# env files
+.env
+.env.local
+.env*.local
+# example 파일은 커밋 허용
+!.env.local.example
 
 # vercel
 .vercel
@@ -39,3 +43,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# pnpm store
+.pnpm-store/
+
+# claude
+.claude/
+Dockerfile.claude
+docker-compose.claude.yml
+.claude-output/
