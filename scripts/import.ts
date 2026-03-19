@@ -94,10 +94,10 @@ async function upsertScenario(scenarioDir: string) {
     pdf_path: null as string | null,
   };
 
-  // 시나리오 DB insert (먼저 ID 확보)
+  // 시나리오 DB upsert — title 기준 중복 방지
   const { data, error } = await supabase
     .from('scenarios')
-    .insert(record)
+    .upsert(record, { onConflict: 'title' })
     .select()
     .single();
 
