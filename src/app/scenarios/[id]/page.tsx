@@ -28,7 +28,7 @@ export default async function ScenarioDetailPage({ params }: Props) {
           {/* PDF 뷰어 */}
           <div>
             {scenario.pdf_path ? (
-              <PdfViewerLazy url={`/api/pdf/${scenario.id}`} />
+              <PdfViewerLazy url={scenario.pdf_path} />
             ) : (
               <div className="border rounded-lg p-8 text-center text-gray-500 bg-gray-50">
                 PDF 파일이 없습니다.
