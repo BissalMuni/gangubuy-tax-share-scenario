@@ -20,14 +20,27 @@ export async function GET(
     return NextResponse.json({ error: 'PDF 없음' }, { status: 404 });
   }
 
+  // pdf_path가 전체 URL인 경우 버킷 내 상대 경로 추출
+  const pdfPath = scenario.pdf_path;
+  let storagePath: string;
+  if (pdfPath.includes('/storage/v1/object/public/pdfs/')) {
+    storagePath = pdfPath.split('/storage/v1/object/public/pdfs/')[1];
+  } else {
+    storagePath = pdfPath;
+  }
+
   // Supabase storage에서 PDF 다운로드
-  const storagePath = `${id}.pdf`;
   const { data, error: downloadError } = await supabase.storage
     .from('pdfs')
-    .download(storagePath);
+    .download(decodeURIComponent(storagePath));
 
   if (downloadError || !data) {
-    return NextResponse.json({ error: 'PDF 다운로드 실패' }, { status: 502 });
+    // Storage에 파일이 없으면 pdf_path 초기화
+    await supabase
+      .from('scenarios')
+      .update({ pdf_path: null })
+      .eq('id', id);
+    return NextResponse.json({ error: 'PDF 파일을 찾을 수 없습니다' }, { status: 404 });
   }
 
   const arrayBuffer = await data.arrayBuffer();
