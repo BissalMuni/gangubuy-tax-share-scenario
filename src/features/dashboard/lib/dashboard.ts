@@ -38,7 +38,9 @@ export async function fetchScenarioList(
   statusFilter?: ScenarioStatus
 ): Promise<Scenario[]> {
   const supabase = await createClient();
-  let query = supabase.from('scenarios').select('*').order('title');
+  let query = supabase.from('scenarios')
+    .select('id, title, status, law_basis, effective_date, video_duration, created_at, updated_at')
+    .order('title');
 
   if (statusFilter) {
     query = query.eq('status', statusFilter);
