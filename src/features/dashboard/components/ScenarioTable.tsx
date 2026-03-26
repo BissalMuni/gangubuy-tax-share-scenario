@@ -2,13 +2,13 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import type { Scenario, ScenarioStatus } from '@/types';
+import type { ScenarioListItem, ScenarioStatus } from '@/types';
 import { StatusBadge } from '@/features/scenario/components/StatusBadge';
 import { formatDate, formatDuration, statusLabel } from '@/lib/utils';
 import { updateScenarioStatus } from '@/app/dashboard/actions';
 
 interface ScenarioTableProps {
-  scenarios: Scenario[];
+  scenarios: ScenarioListItem[];
 }
 
 const ALL_STATUSES: ScenarioStatus[] = ['draft', 'revision', 'production', 'complete'];

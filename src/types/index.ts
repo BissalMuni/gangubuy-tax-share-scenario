@@ -16,6 +16,9 @@ export interface Scenario {
   updated_at: string;
 }
 
+/** 시나리오 목록용 (대용량 컬럼 제외) */
+export type ScenarioListItem = Omit<Scenario, 'script_content' | 'scene_data' | 'pdf_path'>;
+
 /** 장면 데이터 */
 export interface SceneData {
   scene_number: number;

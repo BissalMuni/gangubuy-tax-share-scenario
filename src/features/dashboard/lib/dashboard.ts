@@ -1,5 +1,5 @@
 import { createClient } from '@/lib/supabase/server';
-import type { Scenario, ScenarioStatus } from '@/types';
+import type { ScenarioListItem, ScenarioStatus } from '@/types';
 
 /** 상태별 시나리오 카운트 */
 export interface StatusCount {
@@ -36,7 +36,7 @@ export async function fetchStatusCounts(): Promise<StatusCount[]> {
 /** 전체 시나리오 목록 (필터 옵션) */
 export async function fetchScenarioList(
   statusFilter?: ScenarioStatus
-): Promise<Scenario[]> {
+): Promise<ScenarioListItem[]> {
   const supabase = await createClient();
   let query = supabase.from('scenarios')
     .select('id, title, status, law_basis, effective_date, video_duration, created_at, updated_at')
